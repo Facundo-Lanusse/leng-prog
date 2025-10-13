@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/faculanusse/facultad/tercero/lenguaje_de_prog/leng-prog/c-examples/memory/main'
+relocations:     []
+...
